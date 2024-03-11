@@ -1,6 +1,6 @@
 {
   "name": "data-structures-by-a1lexen",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,13 @@
     "url": "https://github.com/A1lexen/data-structures.git"
   },
   "dependencies": {
-    "redesigned-octo-winner": "1.0.1"
+    "redesigned-octo-winner": "1.0.1",
+    "ubiquitous-octo-engine": "1.0.1",
+    "legendary-robot": "1.0.1",
+    "friendly-barnacle": "1.0.1",
+    "studious-succotash": "1.0.1",
+    "fictional-guacamole": "1.0.1",
+    "friendly-eureka": "1.0.1"
   },
   "license": "ISC",
   "bugs": {
